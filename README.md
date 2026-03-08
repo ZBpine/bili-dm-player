@@ -19,7 +19,7 @@
 - ✅ 支持配置自建服务地址进行搜索与拉取
 - ✅ 支持通过 URL 规则扩展到更多站点/页面
 
-![legend01](./docs/images/legend01.png)
+![legend01](https://raw.githubusercontent.com/ZBpine/bili-dm-player/refs/heads/main/docs/images/legend01.png)
 
 ## 🧩 URL 规则（2.0.0）
 
@@ -34,4 +34,4 @@
 
 > 只要有 `<video>` 的网页，可直接调用另一个油猴菜单 `🔍 搜索弹幕` （或快捷键 `S` ）加载弹幕，作为临时使用。
 
-![legend02](./docs/images/legend02.png)
+![legend02](https://raw.githubusercontent.com/ZBpine/bili-dm-player/refs/heads/main/docs/images/legend02.png)
